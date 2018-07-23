@@ -21,3 +21,20 @@ Sincerely,
 
 Harry Potter
 ```
+
+name = gets.chomp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
